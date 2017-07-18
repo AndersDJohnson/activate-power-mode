@@ -215,7 +215,7 @@ module.exports =
 
   flow:
     title: "Flow"
-    description: "Defines the flow when typping."
+    description: "Defines the flow when typing."
     type: "string"
     default: ""
     order: 7
